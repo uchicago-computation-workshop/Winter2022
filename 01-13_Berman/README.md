@@ -1,8 +1,10 @@
 
 
+<br>
+
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Marc Berman </h1>
+<h1 class=pfblock-header3> Marc Berman</h1>
 <h3 class=pfblock-header3> Department of Psychology </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -28,18 +30,14 @@
 
 <p class=footertext2>
 
-**Summary:** The Hurst exponent (H) isolated in fractal analyses of neuroimaging timeseries is implicated broadly in cognition. The connection between H and the mathematics of criticality makes it a candidate measure of individual differences in cognitive resource allocation. Relationships between H and multiple mental disorders have been detected, suggesting that H is transdiagnostically associated with psychopathology. Here, we demonstrate a gradient of decreased H with increased general psychopathology and attention-deficit/hyperactivity extracted factor scores during a working memory task which predicts concurrent and future working memory performance in 1,839
-children. This gradient defines psychological and functional axes which indicate that psychopathology is associated with an imbalance in resource allocation between fronto-parietal and sensory-motor regions, driven by reduced
-resource allocation to fonto-parietal regions. This suggests the hypothesis that impaired cognitive function associated with psychopathology follows from a
-reduced cognitive resource pool and a reduction in resources allocated to the
-task at hand.
+**Summary:** The Hurst exponent (H) isolated in fractal analyses of neuroimaging timeseries is implicated broadly in cognition. The connection between H and the mathematics of criticality makes it a candidate measure of individual differences in cognitive resource allocation. Relationships between H and multiple mental disorders have been detected, suggesting that H is transdiagnostically associated with psychopathology. Here, we demonstrate a gradient of decreased H with increased general psychopathology and attention-deficit/hyperactivity extracted factor scores during a working memory task which predicts concurrent and future working memory performance in 1,839 children. This gradient defines psychological and functional axes which indicate that psychopathology is associated with an imbalance in resource allocation between fronto-parietal and sensory-motor regions, driven by reduced resource allocation to fonto-parietal regions. This suggests the hypothesis that impaired cognitive function associated with psychopathology follows from a reduced cognitive resource pool and a reduction in resources allocated to the task at hand.
 
 
 </p>
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 01/13/2021 </h4>
+<h4 class=pfblock-header3> Thursday, 01/13/2022 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
 <br><br>
@@ -47,6 +45,7 @@ task at hand.
 <p class=footertext2>
 
 **Marc Berman** is an Associate Professor in the Department of Psychology, Co-Director for the Masters in Computational Social Science Program, and Director of the Environmental Neuroscience Lab. He is involved in the Cognition, Social and Integrative Neuroscience programs. Understanding the relationship between individual psychological and neural processing and environmental factors lies at the heart of his research. In his lab they utilize brain imaging, behavioral experimentation, computational neuroscience and statistical models to quantify the person, the environment and their interactions. Marc received his BSE in Industrial and Operations Engineering (IOE) from the University of Michigan and his PhD in Psychology and IOE from the University of Michigan. He received post-doctoral training at the University of Toronto's Rotman Research Institute at Baycrest. Before arriving to Chicago he was an Assistant Professor of Psychology at the University of South Carolina.
+
 </p>
 
 <br>
@@ -75,4 +74,4 @@ This week's readings:
 
 
 
-<p class=footertext> Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2022/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-13_Berman>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2022/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-13_Berman>workshop's public repository on GitHub.</a></p>

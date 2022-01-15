@@ -1,10 +1,9 @@
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Sherry Emery </h1>
+<h1 class=pfblock-header3> Sherry Emery</h1>
 <h3 class=pfblock-header3> NORC </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -20,7 +19,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-20_Emery> Reporting from the Front Lines of Social Media Research:  from Quick and Dirty to Ideal </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-20_Emery> Reporting from the Front Lines of Social Media Research: from Quick and Dirty to Ideal </a>
 </h2>
 
 <br>
@@ -45,7 +44,6 @@
 <p class=footertext2>
 
 **Dr. Sherry Emery** is a Senior Fellow in Public Health and the Director of the Social Data Collaboratory at NORC at the University of Chicago.  Prior to joining NORC in 2016, Dr. Emery led a group of health communication researchers at the Institute for Health Research and Policy at UIC (where she was colleagues with Dr. Chriqui for over 10 years).  Her Ph.D. is in City and Regional Planning, from the University of North Carolina at Chapel Hill, and she earned an MBA from Columbia University.
-
 </p>
 
 <br>
@@ -61,9 +59,8 @@
 
 This week's readings:
 
-- [Kim, Y., Emery, S. L., Vera, L., David, B., & Huang, J. (2021). At the speed of Juul: measuring the Twitter conversation related to ENDS and Juul across space and time (2017–2018). Tobacco Control, 30(2), 137-146.](SpeedOfJuul.pdf)
-
-- [Huang, J., Duan, Z., Kwok, J., Binns, S., Vera, L. E., Kim, Y., ... & Emery, S. L. (2019). Vaping versus JUULing: how the extraordinary growth and marketing of JUUL transformed the US retail e-cigarette market. Tobacco Control, 28(2), 146-151.](VapingVsJuuling.pdf)
+- [Kim, Y., Emery, S. L., Vera, L., David, B., & Huang, J. (2021). At the speed of Juul: measuring the Twitter conversation related to ENDS and Juul across space and time (2017–2018). Tobacco Control, 30(2), 137-146.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/01-20_Emery/SpeedOfJuul.pdf)
+- [Huang, J., Duan, Z., Kwok, J., Binns, S., Vera, L. E., Kim, Y., ... & Emery, S. L. (2019). Vaping versus JUULing: how the extraordinary growth and marketing of JUUL transformed the US retail e-cigarette market. Tobacco Control, 28(2), 146-151.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/01-20_Emery/VapingVsJuuling.pdf)
 
 <br>
 

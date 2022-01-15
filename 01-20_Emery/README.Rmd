@@ -42,8 +42,8 @@ week_paper_file1 <- "VapingVsJuuling.pdf"
 #No Need to Edit
 week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
 
-readings0 <- paste0("[", week_paper_ref0,"](",week_paper_file0,")")
-  
+readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+
 readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
 
 
@@ -112,7 +112,7 @@ readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computat
 This week's readings:
 
 - `r readings0`
-
+- `r readings1`
 
 <br>
 

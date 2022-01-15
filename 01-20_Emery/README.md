@@ -57,13 +57,13 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/2> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. We will use a rotation system for group posting. All group 1 sub-groups are expected to post a question this week, but group 2 sub-groups do not need to post. </a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/2> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. </a> We will use a rotation system for group posting. All group 1 sub-groups are expected to post a question this week, but group 2 sub-groups do not need to post.
 
 This week's readings:
 
-- [Kim, Y., Emery, S. L., Vera, L., David, B., & Huang, J. (2021). At the speed of Juul: measuring the Twitter conversation related to ENDS and Juul across space and time (2017–2018). Tobacco control, 30(2), 137-146.](SpeedOfJuul.pdf)
+- [Kim, Y., Emery, S. L., Vera, L., David, B., & Huang, J. (2021). At the speed of Juul: measuring the Twitter conversation related to ENDS and Juul across space and time (2017–2018). Tobacco Control, 30(2), 137-146.](SpeedOfJuul.pdf)
 
-- [Huang, J., Duan, Z., Kwok, J., Binns, S., Vera, L. E., Kim, Y., ... & Emery, S. L. (2019). Vaping versus JUULing: how the extraordinary growth and marketing of JUUL transformed the US retail e-cigarette market. Tobacco control, 28(2), 146-151.](VapingVsJuuling.pdf)
+- [Huang, J., Duan, Z., Kwok, J., Binns, S., Vera, L. E., Kim, Y., ... & Emery, S. L. (2019). Vaping versus JUULing: how the extraordinary growth and marketing of JUUL transformed the US retail e-cigarette market. Tobacco Control, 28(2), 146-151.](VapingVsJuuling.pdf)
 
 <br>
 

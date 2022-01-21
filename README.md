@@ -10,3 +10,7 @@
 ### Jan 20th - [Sherry Emery](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-20_Emery)
 
 <div><img src="https://www.norc.org/PublishingImages/people/Emery_Large.jpg" width="240" height="240"></div>
+
+### Jan 27th - [Blase Ur](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-27_Ur)
+
+<div><img src="https://www.blaseur.com/blase_headshot.jpg" width="240" height="240"></div>

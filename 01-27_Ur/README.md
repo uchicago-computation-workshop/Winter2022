@@ -3,7 +3,7 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Blase Ur </h1>
+<h1 class=pfblock-header3> Blase Ur</h1>
 <h3 class=pfblock-header3> Computer Science </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -51,6 +51,7 @@
 <p class=footertext2>
 
 **Attendance**: The talk will be held virtually on Zoom and in-person in room 295 of 1155 East 60th St. If joining virtually, please join via Zoom ([link](https://uchicago.zoom.us/j/96755762030?pwd=OHFQb280WU1lWWZib0RGUVZMdG43UT09)).
+
 </p>
 
 <p class=footertext2>
@@ -59,7 +60,7 @@
 
 This week's readings:
 
-- [Wei, M., Stamos, M., Veys, S., Reitinger, N., Goodman, J., Herman, M., ... & Ur, B. (2020). What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data. In 29th {USENIX} Security Symposium ({USENIX} Security 20) (pp. 145-162)..](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/01-27_Ur/ur_reading.pdf)
+- [Wei, M., Stamos, M., Veys, S., Reitinger, N., Goodman, J., Herman, M., ... & Ur, B. (2020). What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data. In 29th {USENIX} Security Symposium ({USENIX} Security 20) (pp. 145-162).](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/01-27_Ur/ur_reading.pdf)
 
 <br>
 

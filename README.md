@@ -14,3 +14,4 @@
 ### Jan 27th - [Blase Ur](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/01-27_Ur)
 
 <div><img src="https://www.blaseur.com/blase_headshot.jpg" width="240" height="240"></div>
+

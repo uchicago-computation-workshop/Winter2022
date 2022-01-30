@@ -15,3 +15,7 @@
 
 <div><img src="https://www.blaseur.com/blase_headshot_400.jpg" width="240" height="240"></div>
 
+### Feb 3rd - [Zhao Wang](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-03_Wang)
+
+<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202021-08-02%20at%204.44.41%20PM.png?itok=9ywJhaZu" width="240" height="240"></div>
+

@@ -1,9 +1,10 @@
 
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Zhao Wang </h1>
+<h1 class=pfblock-header3> Zhao Wang</h1>
 <h3 class=pfblock-header3> Computational Social Science </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -43,7 +44,7 @@
 
 <p class=footertext2>
 
-**Zhao Wang** is an assistant instructional professor in the MACSS program at the University of Chicago. Zhao's research lies at the intersection of online social network analysis, natural language processing, machine learning, and causal inference. She is interested in developing computational linguistic models to gain insights into social issues from the perspective of text and language in online communication. 
+**Zhao Wang** is an assistant instructional professor in the MACSS program at the University of Chicago. Zhao's research lies at the intersection of online social network analysis, natural language processing, machine learning, and causal inference. She is interested in developing computational linguistic models to gain insights into social issues from the perspective of text and language in online communication.
 </p>
 
 <br>
@@ -61,7 +62,6 @@
 This week's readings:
 
 - [Wang, Z., & Culotta, A. (2019, July). When Do Words Matter? Understanding the Impact of Lexical Choice on Audience Perception Using Individual Treatment Effect Estimation. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, No. 01, pp. 7233-7240).](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/02-03_Wang/wang_reading1.pdf)
-
 - [Wang, Z., & Culotta, A. (2020). Robustness to spurious correlations in text classification via automatically generated counterfactuals. arXiv preprint arXiv:2012.10040.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/02-03_Wang/wang_reading2.pdf)
 
 <br>

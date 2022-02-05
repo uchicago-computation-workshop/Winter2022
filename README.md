@@ -17,5 +17,7 @@
 
 ### Feb 3rd - [Zhao Wang](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-03_Wang)
 
-<div><img src="https://macss.uchicago.edu/sites/macss.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/Screen%20Shot%202021-08-02%20at%204.44.41%20PM.png?itok=9ywJhaZu" width="240" height="240"></div>
+### Feb 10th - [Akram Bakkour](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-10_Bakkour)
+
+<div><img src="hhttps://psychology.uchicago.edu/sites/psychology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/thumbnail_AkramBakkour-1x1-HD-Web_3.jpg?itok=O6tBLHwX" width="240" height="240"></div>
 

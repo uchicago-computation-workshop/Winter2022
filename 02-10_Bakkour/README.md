@@ -1,5 +1,6 @@
 
 
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -63,7 +64,7 @@ This week's readings:
 
 - [Bakkour, A., Palombo, D. J., Zylberberg, A., Kang, Y. H., Reid, A., Verfaellie, M., ... & Shohamy, D. (2019). The hippocampus supports deliberation during value-based decisions. elife, 8, e46080.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/02-10_Bakkour/Bakkour_elife_2019.pdf)
 
-Please find the supplemental information online ([here](https://elifesciences.org/articles/46080)
+Please find the supplemental information online [here](https://elifesciences.org/articles/46080) 
 
 <br>
 

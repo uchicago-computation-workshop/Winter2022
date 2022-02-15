@@ -1,11 +1,10 @@
 
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Robert Axtell </h1>
+<h1 class=pfblock-header3> Robert Axtell</h1>
 <h3 class=pfblock-header3> Computational Science </h3>
 <h3 class=pfblock-header3> George Mason University </h3>
 
@@ -46,6 +45,7 @@
 <p class=footertext2>
 
 **Robert Axtell** is Professor of Computational Science at George Mason University, External Faculty Fellow at the Santa Fe Institute, Visiting Scientist at Google Research, and currently Visiting Professor at the Sloan School at MIT. He is a pioneer of agent-based modeling for computational social science research and co-author (with J.M. Epstein) of Growing Artificial Societies: Social Science from the Bottom Up (MIT Press). His research has been published in Science, Nature, Proceedings of the National Academy of Sciences, as well as in leading field journals like the American Economic Review, Computational and Mathematical Organization Theory, and Sustainability Science.
+
 </p>
 
 <br>
@@ -63,7 +63,6 @@
 This week's recommended readings:
 
 - [Axtell, R. (2018). Endogenous firm dynamics and labor flows via heterogeneous agents. In Handbook of computational economics (Vol. 4, pp. 157-213). Elsevier.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/02-17_Axtell/Handbook_chapter3_Axtell.pdf)
-
 - [Axtell, R. (2016). 120 million agents self-organize into 6 million firms: A model of the US private sector. In Proceedings of the 2016 International Conference on Autonomous Agents & Multiagent Systems (pp. 806-816).](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/02-17_Axtell/Axtell-AAMAS_p806.pdf)
 
 <br>

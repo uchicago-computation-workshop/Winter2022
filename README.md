@@ -23,3 +23,6 @@
 
 <div><img src="https://psychology.uchicago.edu/sites/psychology.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/thumbnail_AkramBakkour-1x1-HD-Web_3.jpg?itok=O6tBLHwX" width="240" height="240"></div>
 
+### Feb 17th - [Robert Axtell](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-17_Axtell)
+
+<div><img src="Rob Axtell.png" width="240" height="240"></div>

@@ -25,4 +25,4 @@
 
 ### Feb 17th - [Robert Axtell](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-17_Axtell)
 
-<div><img src="Rob Axtell.png" width="240" height="240"></div>
+<div><img src="Rob Axtell.png" width="230" height="240"></div>

@@ -5,7 +5,7 @@
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> Yuan Chang Leong </h1>
-<h3 class=pfblock-header3> Psychology </h3>
+<h3 class=pfblock-header3> Department of Psychology </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
 <br><br>
@@ -58,7 +58,7 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/7> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. </a> We will use a rotation system for group posting. All group 2 sub-groups are expected to post a question and attend this week, but group 1 sub-groups do not need to post and attendance is optional.
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/8> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. </a> We will use a rotation system for group posting. All group 2 sub-groups are expected to post a question and attend this week, but group 1 sub-groups do not need to post and attendance is optional.
 
 This week's reading:
 
@@ -74,4 +74,4 @@ This week's reading:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2022/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-24_Leong>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2022/issues/8>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-24_Leong>workshop's public repository on GitHub.</a></p>

@@ -1,10 +1,11 @@
 
 
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Yuan Chang Leong </h1>
+<h1 class=pfblock-header3> Yuan Chang Leong</h1>
 <h3 class=pfblock-header3> Department of Psychology </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -20,7 +21,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-24_Leong> Polarized brains on polarizing media: Divergent neural and semantic representations of political content  </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-24_Leong> Polarized brains on polarizing media: Divergent neural and semantic representations of political content </a>
 </h2>
 
 <br>

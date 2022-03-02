@@ -30,3 +30,7 @@
 ### Feb 24th - [Yuan Chang Leong](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/02-24_Leong)
 
 <div><img src="https://ycleong.github.io/author/yuan-chang-leong/avatar_huffffcb5e8eba9052c51a75bcd3d930c6_161383_270x270_fill_q90_lanczos_center.jpg" width="240" height="240"></div>
+
+### March 3rd- [Joshua Epstein](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/03-03_Epstein)
+
+<div><img src="https://publichealth.nyu.edu/sites/default/files/2018-10/Joshua%20M.%C2%A0Epstein.jpg" width="240" height="240"></div>

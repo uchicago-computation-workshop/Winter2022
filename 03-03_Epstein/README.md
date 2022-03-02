@@ -1,11 +1,10 @@
 
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Joshua Epstein </h1>
+<h1 class=pfblock-header3> Joshua Epstein</h1>
 <h3 class=pfblock-header3> NYU School of Global Public Health </h3>
 <h3 class=pfblock-header3> New York University </h3>
 

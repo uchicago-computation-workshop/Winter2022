@@ -67,7 +67,7 @@ Preface:
 - [Epstein, J. M. (2014). Agent_Zero. Princeton University Press.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/03-03_Epstein/Preface.pdf)
 
 Part 1 (first 20 pgs recommended):
--[Epstein, J. M. (2014). Agent_Zero. Princeton University Press.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/03-03_Epstein/Part_1_2.pdf)
+- [Epstein, J. M. (2014). Agent_Zero. Princeton University Press.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/03-03_Epstein/Part_1_2.pdf)
 
 Part 2 (first 20 pgs recommended):
 - [Epstein, J. M. (2014). Agent_Zero. Princeton University Press.](https://github.com/uchicago-computation-workshop/Winter2022/blob/master/03-03_Epstein/Part2.pdf)

@@ -33,4 +33,4 @@
 
 ### March 3rd- [Joshua Epstein](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/03-03_Epstein)
 
-<div><img src="https://publichealth.nyu.edu/sites/default/files/2018-10/Joshua%20M.%C2%A0Epstein.jpg" width="500" height="240"></div>
+<div><img src="https://publichealth.nyu.edu/sites/default/files/2018-10/Joshua%20M.%C2%A0Epstein.jpg" width="300" height="200"></div>

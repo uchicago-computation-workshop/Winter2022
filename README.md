@@ -37,4 +37,4 @@
 
 ### March 10th- [Alex "Sandy" Pentland](https://github.com/uchicago-computation-workshop/Winter2022/tree/master/03-10_Pentland)
 
-<div><img src="pentland.jpg" width="240" height="240"></div>
+<div><img src="pentland.jpg" width="220" height="240"></div>

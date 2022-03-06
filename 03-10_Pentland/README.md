@@ -4,7 +4,7 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Alex 'Sandy' Pentland </h1>
+<h1 class=pfblock-header3> Alex 'Sandy' Pentland</h1>
 <h3 class=pfblock-header3> Media Arts and Sciences </h3>
 <h3 class=pfblock-header3> MIT </h3>
 
@@ -45,6 +45,7 @@
 <p class=footertext2>
 
 **Professor Alex 'Sandy' Pentland** directs MIT Connection Science, an MIT-wide initiative, and previously helped create and direct the MIT Media Lab and the Media Lab Asia in India. He is one of the most-cited  computational scientists in the world, a member of the US National Academies, and advisor to the OECD and UN Secretary General. He co-led the World Economic Forum discussion in Davos that led to the EU privacy regulation GDPR, and worked with the UN Secretary General's "data revolutionaries" to shape the transparency and accountability mechanisms in the UN's Sustainable Development Goals.  Recent invited keynotes include annual meetings of OECD, G20, World Bank, and JP Morgan.
+
 </p>
 
 <br>
@@ -57,7 +58,7 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/10> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. </a> We will use a rotation system for group posting. All group 2 sub-groups are expected to post a question and attend this week, but group 1 sub-groups do not need to post and attendance is optional.
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Winter2022/issues/10> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository. </a> We will use a rotation system for group posting. All group 2 sub-groups are expected to post a question and attend this week, but group1 sub-groups do not need to post and attendance is optional.
 
 This week's recommended readings:
 
